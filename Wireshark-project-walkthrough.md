@@ -11,11 +11,13 @@ I made use of _ctrl g_ which will allow me to enter the packet nuber i want to d
 <img width="370" height="272" alt="Image" src="https://github.com/user-attachments/assets/10f35769-26b3-4928-800f-a0de768253d7" />
 The langauge uses is **EXTENSIBLE MARKUP LANGUAGE**
 
+
 **TASK 3:What is the arrival date of the packet? (Answer format: Month/Day/Year)**
 
 In the same packet i look into the hypertext transfer protocol for the date  as shown below:
 
 <img width="372" height="285" alt="Image" src="https://github.com/user-attachments/assets/543e47ba-d695-41f6-8661-bd5d79754114" />
+
 
 **TASK 3:What is the TTL value?**
 
@@ -23,13 +25,16 @@ The time to live value will be recorded inside the internet trasfer protocol, th
 
 <img width="368" height="281" alt="Image" src="https://github.com/user-attachments/assets/342b10ee-8323-4570-89a5-cb07d5d5ad10" />
 
+
 **TASK 4: What is the TCP payload size?**
 
-I foundn the size of the payload will be found in the Transmission comtrol protocol  as shown in the screenshot below: The TCP payload  is 424.
+I found the size of the payload will be found in the Transmission comtrol protocol  as shown in the screenshot below: The TCP payload  is 424.
 
 <img width="370" height="278" alt="Image" src="https://github.com/user-attachments/assets/7940b3b1-924d-47c0-9978-e68fa32c9224" />
 
+
 TASK 5:What is the e-tag value?
+
 The E-TAG Value took me back to the hypertext transfer protocol where i found the e-tag number to be 9a01a-4696-7e354b00  as shown below ;
 
 <img width="372" height="285" alt="Image" src="https://github.com/user-attachments/assets/f5542887-816b-44fc-968a-0f833ce8998e" />
@@ -74,6 +79,7 @@ I read the contents of the text file on the details pane but the objective of th
 <img width="626" height="533" alt="Image" src="https://github.com/user-attachments/assets/ceda9ea7-4f79-4e56-87bd-ac077a8ece1f" />
 
 The responce o this is **PACKETMASTER**
+
 
 TASK 4:Look at the expert info section. What is the number of warnings?
 
