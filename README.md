@@ -26,7 +26,7 @@ A hands-on network forensics and protocol analysis project completed through Try
 ## 📑 Lab Walkthrough & Documentation
 Because of the extensive nature of this practical lab, the complete step-by-step documentation, filtering queries, and evidence screenshots have been organized into a dedicated walkthrough file:
 
-👉 Wireshark project walkthrough
+👉👉 **[Read the Full Step-by-Step Lab Walkthrough](./Wireshark%20project%20walkthrough)**
 
 ---
 ## 🛡️ Conclusion
