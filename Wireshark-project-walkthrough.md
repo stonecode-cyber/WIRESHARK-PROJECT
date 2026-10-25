@@ -41,7 +41,7 @@ The E-TAG Value took me back to the hypertext transfer protocol where i found th
 
 **### PACKET NAVIGATION**
 
-I will be nvigating throght different packet in this project:
+I will be navigating through different packet in this project:
 
 **TASK 1:Use the "Exercise.pcapng" file to answer the questions. Search the "r4w" string in packet details. What is the name of artist 1?
 I  will be making use of ctlr f bto search for the string:  and i search through the detail pane as shown below the  sting is  r4w8173
